@@ -1,0 +1,1 @@
+Link to git hub for js scroll assignment: https://github.com/ericchoi35/js_scroll_assignment
